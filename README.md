@@ -1,4 +1,4 @@
-# lead_managment
+# Lead_managment
 
 Step-by-Step Installation
 Step 1: Clone the repository
